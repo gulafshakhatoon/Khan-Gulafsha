@@ -22,7 +22,8 @@
 - Small academic and learning projects  
 
 ##  Currently Learning
-- Advanced Java concepts  
+- Advanced Java concepts
+- Advanced Python concepts 
 - JavaScript practice  
 - Problem solving  
 
